@@ -1,0 +1,20 @@
+.explanation {
+	background: #FFF;
+	border: 1px solid #222;
+	border-radius: 4px;
+	color: #222;
+	font-weight: 500;
+	margin: 10px 0;
+	padding: 10px;
+	text-align: left;
+	width: 100%;
+}
+
+.correct {
+	background: #9AEABC;
+}
+    
+.incorrect {
+	background: #FF9393;
+}
+
